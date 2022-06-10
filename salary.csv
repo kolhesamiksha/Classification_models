@@ -1,0 +1,48 @@
+company,job,location,salary
+IBM,Data Analyst,Bangalore,648573
+Flipkart,Data Analyst,Bangalore,1191950
+Wipro,ML engineer,Pune,836874
+Microsoft,ML engineer,Pune,669578
+Accenture,data scientist,Hyderabad,944110
+Infosys,data scientist,Hyderabad,908764
+Oracle,data analitics,New Delhi,926124
+SAP,data analitics,New Delhi,736708
+IBM,Junior Data Scientist,Mumbai,1646721
+Flipkart,Junior Data Scientist,Mumbai,1392960
+Wipro,Senior Data Scientist,Bangalore,1404773
+Microsoft,Senior Data Scientist,Bangalore,1507343
+Accenture,Data Analyst,Pune,1558095
+Infosys,Data Analyst,Pune,2557843
+Oracle,ML engineer,Hyderabad,1510081
+SAP,ML engineer,Hyderabad,732821
+IBM,data scientist,New Delhi,1221750
+Flipkart,data scientist,New Delhi,1739484
+Wipro,data analitics,Mumbai,1124939
+Microsoft,data analitics,Mumbai,1630396
+Accenture,Junior Data Scientist,Bangalore,1009436
+Infosys,Junior Data Scientist,Bangalore,550980
+Oracle,Senior Data Scientist,Pune,1870000
+SAP,Senior Data Scientist,Pune,758376
+IBM,Data Analyst,Hyderabad,1556575
+Flipkart,Data Analyst,Hyderabad,1194327
+Wipro,ML engineer,New Delhi,1470000
+Microsoft,ML engineer,Bangalore,1549942
+Accenture,data scientist,Bangalore,1009436
+Infosys,data scientist,Pune,1541572
+Oracle,data analitics,Pune,811182
+SAP,data analitics,Hyderabad,1205874
+IBM,Junior Data Scientist,Hyderabad,727111
+Flipkart,Junior Data Scientist,New Delhi,1923257
+Wipro,Senior Data Scientist,New Delhi,2143501
+Microsoft,Senior Data Scientist,Mumbai,1926965
+Accenture,Data Analyst,Mumbai,41271.00
+Infosys,Data Analyst,Hyderabad,1294984
+Oracle,ML engineer,New Delhi,2334960
+SAP,ML engineer,New Delhi,2267616
+IBM,data scientist,Mumbai,1366992
+Flipkart,data scientist,Mumbai,1453427
+Wipro,data analitics,Bangalore,1458032
+Microsoft,data analitics,Bangalore,1730166
+Accenture,Junior Data Scientist,Pune,658109
+Infosys,Junior Data Scientist,Pune,794460
+Oracle,Senior Data Scientist,Hyderabad,2567381
